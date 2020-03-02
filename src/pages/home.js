@@ -33,7 +33,7 @@ function About(props) {
                     <Col sm={4} style={{height:'40vh', width:'100%', backgroundColor:'green'}}>
                     </Col>
                     <Col sm={8}>
-                        I have a vast experience managing all of the projects big and small and medium.
+                        I am a go getter with a big personality
                     </Col>
                 </Row>
                 <Row>
